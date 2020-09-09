@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h2 align="center">Vue Context</h2>
+  <h2 align="center">Gridby</h2>
 
   <p align="center">
     A simple vue directive to include Shopify Swappable into your vue project.
