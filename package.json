@@ -1,0 +1,30 @@
+{
+  "name": "gridby",
+  "version": "0.1.0",
+  "description": "a vue.js directive that implements shopify.swappable",
+  "main": "gridby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogriffithjones/gridby.git"
+  },
+  "dependencies": {
+    "@shopify/draggable": "^1.0.0-beta.8"
+  },
+  "keywords": [
+    "vue",
+    "vue-directive",
+    "gridby",
+    "shopify",
+    "draggable",
+    "swappable"
+  ],
+  "author": "Oliver Griffith-Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogriffithjones/gridby/issues"
+  },
+  "homepage": "https://github.com/ogriffithjones/gridby#readme"
+}
